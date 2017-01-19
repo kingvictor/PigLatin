@@ -20,7 +20,6 @@ public int findFirstVowel(String sWord)
   if (b.equals ("a") ||b.equals ("e") ||b.equals ("i")||b.equals ("o")||b.equals ("u"))
   return i;
   }
-  else
   return -1;
 }
 
